@@ -1,2 +1,4 @@
 # fingerSpeedTest
-Hey folks, This is a Typing test project made with the help HTML, CSS and JS, so lets check your Finger's Speed
+1) Designed and developed a typing speed application which allows users to check their typing speed.
+2) Added a timer as well as wrong word detection feature in it.
+
